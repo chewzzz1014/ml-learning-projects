@@ -1,0 +1,8 @@
+gradio
+diffusers>=0.19.0
+invisible_watermark
+accelerate
+safetensors
+torch
+pytesseract
+git+https://github.com/huggingface/transformers
