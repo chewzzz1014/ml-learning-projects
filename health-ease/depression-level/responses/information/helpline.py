@@ -40,5 +40,19 @@ helplines = [
         "description": "Relate Malaysia offers online psychotherapy at affordable rates to all Malaysian residents as a community service*. They pride themselves on using the best diagnostic and treatment progress tools in the field to ensure they do their best to help you in your recovery journey.",
         "email": ["info@relate.com.my"],
         "website": ["https://relate.com.my/"]
+    },
+    {
+        "name": "Talian Kasih",
+        "contact": ["15999 (Call)", "+6019-2615999 (SMS or WhatsApp)"],
+        "description": "Talian Kasih is a national hotline service in Malaysia that provides emotional support, information, and referrals for individuals who are facing personal problems, mental health issues, or are in crisis situations. The service is operated by the Ministry of Women, Family and Community Development, and is available 24 hours a day, 7 days a week.",
+        "email": [],
+        "website": []
+    },
+    {
+        "name": "Talian Heal",
+        "contact": ["15555",],
+        "description": "",
+        "email": [],
+        "website": []
     }
 ]
