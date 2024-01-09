@@ -36,7 +36,7 @@ severe_depressed_advices = [
     "Imagine yourself feeling better and engaging in activities you enjoy. Visualization can be a powerful tool for fostering hope and motivation during challenging times.",
     "Even when things feel difficult, try to find things to be grateful for, no matter how small. Focusing on gratitude can shift your perspective and cultivate a more positive outlook.",
     "Healing takes time and patience. Don't get discouraged by setbacks, and remember to be kind and understanding towards yourself throughout the journey."
-    
+
     "Establishing a daily routine, no matter how simple, can provide structure and a sense of stability during challenging times. Consistency in daily activities can be a foundation for gradual improvement.",
 
     "Consider reaching out to mental health professionals who specialize in severe depression. Seeking professional guidance is a crucial step toward understanding and managing your condition.",
